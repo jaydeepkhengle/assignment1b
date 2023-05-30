@@ -1,0 +1,9 @@
+h3{
+    margin-top: 0px;
+    padding: 0px;
+    font-size:calc(1.3rem + .6vw);
+    font-style: normal;
+    line-height: 1.2;
+    
+    font-weight: 800;
+}
